@@ -1,0 +1,8 @@
+{
+  "watch": ["src/", "config/"],
+  "ignore": ["data/", "uploads/", "logs/", "node_modules/", "*.db", "*.sqlite"],
+  "ext": "js,json,yaml",
+  "env": {
+    "NODE_ENV": "development"
+  }
+}

@@ -1,0 +1,306 @@
+[
+  {
+    "id": 1757842538577.001,
+    "session_id": "test-quantum-fixed",
+    "role": "user",
+    "message": "I want to work on quantum computing",
+    "timestamp": "2025-09-14T09:35:38.577Z",
+    "paper_context": null
+  },
+  {
+    "id": 1757842538580.6846,
+    "session_id": "test-quantum-fixed",
+    "role": "assistant",
+    "message": "Quantum computing is an exciting and rapidly evolving field that holds great promise for solving complex problems in fields such as chemistry, materials science, optimization, and cryptography.\n\nTo get started, let's break down the scope of your research paper on quantum computing. What specific aspects would you like to focus on? Here are some potential topics to consider:\n\n1. **Introduction to Quantum Computing**: A brief overview of the history, principles, and basics of quantum computing.\n2. **Quantum Algorithms**: Exploration of popular quantum algorithms such as Shor's algorithm, Grover's algorithm, and Simons' algorithm.\n3. **Quantum Error Correction**: Discussion of the challenges and solutions for mitigating errors in quantum computations.\n4. **Quantum Computing Hardware**: Examination of current state-of-the-art quantum computing hardware, including superconducting qubits, ion traps, and topological qubits.\n5. **Applications of Quantum Computing**: Investigation of potential applications of quantum computing, such as simulation, optimization, and machine learning.\n\nWhich area would you like to explore in more depth?\n\nAlso, what's your preferred research approach? Would you like to:\n\nA) Write a literature review on a specific topic\nB) Conduct an original experiment or simulation\nC) Develop a new algorithm or model\nD) Analyze the current state of quantum computing hardware\n\nLet me know, and I'll be happy to assist you!",
+    "timestamp": "2025-09-14T09:35:38.580Z",
+    "paper_context": null
+  },
+  {
+    "id": 1757847707625.3694,
+    "session_id": "desktop-test",
+    "role": "user",
+    "message": "Test desktop app connection",
+    "timestamp": "2025-09-14T11:01:47.625Z",
+    "paper_context": null
+  },
+  {
+    "id": 1757847707628.3027,
+    "session_id": "desktop-test",
+    "role": "assistant",
+    "message": "I'd be happy to help you test your desktop app connection.\n\nTo get started, I'll need some more information from you. Could you please provide me with the following details:\n\n1. What is the name of the desktop app you're trying to connect to?\n2. What operating system are you using (Windows, macOS, Linux)?\n3. Have you tried connecting to the app before? If so, was it successful or did you experience any issues?\n4. Are there any error messages or symptoms you're experiencing while trying to connect to the app?\n\nOnce I have this information, I can assist you in troubleshooting the connection and provide guidance on how to test your desktop app connection.\n\nAlso, please let me know what kind of paper you are writing about?",
+    "timestamp": "2025-09-14T11:01:47.628Z",
+    "paper_context": null
+  },
+  {
+    "id": 1757856974958.1975,
+    "session_id": "default",
+    "role": "user",
+    "message": "Hello",
+    "timestamp": "2025-09-14T13:36:14.958Z",
+    "paper_context": null
+  },
+  {
+    "id": 1757856974960.3467,
+    "session_id": "default",
+    "role": "assistant",
+    "message": "Hello! I'm here to help with your academic paper writing needs. What can I assist you with? Do you have a specific topic or project in mind that you'd like to work on, or perhaps need help with researching, outlining, or organizing your ideas? Let me know how I can support you!",
+    "timestamp": "2025-09-14T13:36:14.960Z",
+    "paper_context": null
+  },
+  {
+    "id": 1757857023116.082,
+    "session_id": "default",
+    "role": "user",
+    "message": "test message",
+    "timestamp": "2025-09-14T13:37:03.116Z",
+    "paper_context": null
+  },
+  {
+    "id": 1757857023119.8345,
+    "session_id": "default",
+    "role": "assistant",
+    "message": "I'm here to assist with your academic paper. What topic or area of research do you need help with? Are you looking for suggestions, citations, literature reviews, or perhaps help with organizing your thoughts and outlining a paper? Let me know how I can support you!",
+    "timestamp": "2025-09-14T13:37:03.119Z",
+    "paper_context": null
+  },
+  {
+    "id": 1757857651048.8616,
+    "session_id": "default",
+    "role": "user",
+    "message": "hello",
+    "timestamp": "2025-09-14T13:47:31.048Z",
+    "paper_context": null
+  },
+  {
+    "id": 1757857651053.718,
+    "session_id": "default",
+    "role": "assistant",
+    "message": "Hello! I'm happy to help with your academic paper writing needs. As a research assistant, I can assist with:\n\n- Conducting literature reviews\n- Organizing and formatting citations\n- Developing outlines and drafts\n- Helping with research queries\n- Editing and proofreading\n\nPlease let me know how I can support you with your paper! What's the topic of your paper, and what stage are you at in the writing process?",
+    "timestamp": "2025-09-14T13:47:31.053Z",
+    "paper_context": null
+  },
+  {
+    "id": 1757857735368.503,
+    "session_id": "default",
+    "role": "user",
+    "message": "give me more info about heart",
+    "timestamp": "2025-09-14T13:48:55.368Z",
+    "paper_context": null
+  },
+  {
+    "id": 1757857735371.3254,
+    "session_id": "default",
+    "role": "assistant",
+    "message": "The heart! A vital organ that plays a crucial role in maintaining the overall health and well-being of an individual.\n\n**Anatomy of the Heart**\n\nThe heart is a muscular, hollow, and cone-shaped organ located in the thoracic cavity between the lungs. It consists of four chambers:\n\n1. **Right Atrium (RA)**: receives oxygen-depleted blood from the body\n2. **Right Ventricle (RV)**: pumps oxygen-depleted blood to the lungs for oxygenation\n3. **Left Atrium (LA)**: receives oxygen-rich blood from the lungs\n4. **Left Ventricle (LV)**: pumps oxygen-rich blood to the rest of the body\n\n**Blood Flow and Circulation**\n\nThe heart pumps around 2,000 gallons of blood daily, supplying oxygen and nutrients to the body's tissues. The blood flows through the following pathway:\n\n1. Deoxygenated blood from the RA enters the RV\n2. The RV contracts, pumping blood to the lungs for oxygenation\n3. Oxygen-rich blood from the lungs returns to the LA\n4. The LA contracts, pumping blood into the LV\n5. The LV relaxes and fills with blood\n6. The LV contracts, pumping blood out of the heart to the body\n\n**Heart Functions**\n\nThe heart performs several critical functions:\n\n1. **Oxygenation**: delivers oxygen-rich blood to tissues\n2. **Nutrient delivery**: transports nutrients from the digestive system to cells\n3. **Waste removal**: removes waste products from tissues\n4. **Regulation of blood pressure**: maintains optimal blood pressure through contraction and relaxation\n\n**Heart Structure and Layers**\n\nThe heart has three layers:\n\n1. **Pericardium**: a fibrous sac surrounding the heart\n2. **Myocardium**: the muscular layer that contracts to pump blood\n3. **Epicardium**: the outermost layer, attached to the pericardium\n\n**Common Heart Conditions and Diseases**\n\nSome common heart conditions include:\n\n1. **Hypertension**: high blood pressure\n2. **Atherosclerosis**: hardening of the arteries\n3. **Heart failure**: inability of the heart to pump enough blood\n4. **Arrhythmias**: irregular heartbeat\n5. **Cardiac arrhythmias**: abnormal heart rhythms\n\n**Interesting Facts**\n\n1. The heart beats around 100,000 times per day.\n2. The average adult heart weighs about 10 ounces (280 grams).\n3. The heart is capable of pumping enough blood to fill a swimming pool.\n\nI hope this information helps you with your research paper! Do you have any specific questions or topics related to the heart that I can help with?",
+    "timestamp": "2025-09-14T13:48:55.371Z",
+    "paper_context": null
+  },
+  {
+    "id": 1757861287115.959,
+    "session_id": "default",
+    "role": "user",
+    "message": "i wanna write a paper on trees",
+    "timestamp": "2025-09-14T14:48:07.115Z",
+    "paper_context": null
+  },
+  {
+    "id": 1757861287119.288,
+    "session_id": "default",
+    "role": "assistant",
+    "message": "That's a great topic! Trees are fascinating organisms that play a crucial role in our ecosystem, and there's a wealth of information to explore.\n\nTo get started, what would you like to focus on? Here are some potential angles for your paper:\n\n1. **Ecological importance**: Discuss the vital roles trees play in supporting biodiversity, regulating the climate, and maintaining soil health.\n2. **Tree species diversity**: Explore the different types of trees, their characteristics, and the challenges they face due to climate change, deforestation, or other human activities.\n3. **Sustainable forestry practices**: Investigate the latest research on sustainable forestry methods, such as reforestation, agroforestry, and certification schemes like FSC (Forest Stewardship Council).\n4. **Tree-human interactions**: Examine the cultural significance of trees in different societies, their role in traditional medicine, and the impact of urbanization on tree populations.\n5. **Tree biology**: Delve into the fascinating world of tree physiology, including photosynthesis, nutrient uptake, and defense mechanisms against pests and diseases.\n6. **Climate change mitigation**: Discuss how trees can help mitigate climate change by sequestering carbon dioxide, moderating weather patterns, and supporting ecosystem resilience.\n7. **Tree conservation**: Investigate the current state of tree conservation efforts, including threats like deforestation, disease outbreaks, and human-wildlife conflict.\n\nWhich direction are you leaning? Do any of these topics stand out to you, or do you have a different idea in mind?\n\nAlso, what's your level of expertise on trees? Are you looking for general information, or do you want to dive into more advanced research?",
+    "timestamp": "2025-09-14T14:48:07.119Z",
+    "paper_context": null
+  },
+  {
+    "id": 1757863907200.9888,
+    "session_id": "default",
+    "role": "user",
+    "message": "what is the difference between classical random walk and a quantum walk?",
+    "timestamp": "2025-09-14T15:31:47.200Z",
+    "paper_context": null
+  },
+  {
+    "id": 1757863908756.7869,
+    "session_id": "default",
+    "role": "assistant",
+    "message": "I've processed your request with the selected research papers. Based on the content provided, I can assist with generating citations, populating sections, or summarizing key findings. The selected papers provide valuable insights that can be incorporated into your academic work.",
+    "timestamp": "2025-09-14T15:31:48.756Z",
+    "paper_context": null
+  },
+  {
+    "id": 1757863946041.565,
+    "session_id": "default",
+    "role": "user",
+    "message": "what is the difference between classical random walk and a quantum walk?",
+    "timestamp": "2025-09-14T15:32:26.041Z",
+    "paper_context": null
+  },
+  {
+    "id": 1757863949380.5024,
+    "session_id": "default",
+    "role": "assistant",
+    "message": "I've processed your request with the selected research papers. Based on the content provided, I can assist with generating citations, populating sections, or summarizing key findings. The selected papers provide valuable insights that can be incorporated into your academic work.",
+    "timestamp": "2025-09-14T15:32:29.380Z",
+    "paper_context": null
+  },
+  {
+    "id": 1757864105071.7302,
+    "session_id": "default",
+    "role": "user",
+    "message": "explain quantum walks",
+    "timestamp": "2025-09-14T15:35:05.071Z",
+    "paper_context": null
+  },
+  {
+    "id": 1757864105210.299,
+    "session_id": "default",
+    "role": "assistant",
+    "message": "I've processed your request with the selected research papers. Based on the content provided, I can assist with generating citations, populating sections, or summarizing key findings. The selected papers provide valuable insights that can be incorporated into your academic work.",
+    "timestamp": "2025-09-14T15:35:05.210Z",
+    "paper_context": null
+  },
+  {
+    "id": 1757864129418.2788,
+    "session_id": "default",
+    "role": "user",
+    "message": "explain quantum walks",
+    "timestamp": "2025-09-14T15:35:29.418Z",
+    "paper_context": null
+  },
+  {
+    "id": 1757864129709.8206,
+    "session_id": "default",
+    "role": "assistant",
+    "message": "I've processed your request with the selected research papers. Based on the content provided, I can assist with generating citations, populating sections, or summarizing key findings. The selected papers provide valuable insights that can be incorporated into your academic work.",
+    "timestamp": "2025-09-14T15:35:29.709Z",
+    "paper_context": null
+  },
+  {
+    "id": 1757864266777.3694,
+    "session_id": "default",
+    "role": "user",
+    "message": "what are quantum walks?",
+    "timestamp": "2025-09-14T15:37:46.777Z",
+    "paper_context": null
+  },
+  {
+    "id": 1757864266779.5837,
+    "session_id": "default",
+    "role": "assistant",
+    "message": "I've processed your request with the selected research papers. Based on the content provided, I can assist with generating citations, populating sections, or summarizing key findings. The selected papers provide valuable insights that can be incorporated into your academic work.",
+    "timestamp": "2025-09-14T15:37:46.779Z",
+    "paper_context": null
+  },
+  {
+    "id": 1757864312525.702,
+    "session_id": "default",
+    "role": "user",
+    "message": "generate citations for the selected paper",
+    "timestamp": "2025-09-14T15:38:32.525Z",
+    "paper_context": null
+  },
+  {
+    "id": 1757864312531.0403,
+    "session_id": "default",
+    "role": "assistant",
+    "message": "Here are the IEEE-style citations for the selected papers:\n\nIn-text Citations: [1]\n\nFull References:\n[1] \"How to Compute Using Quantum Walks\"",
+    "timestamp": "2025-09-14T15:38:32.531Z",
+    "paper_context": null
+  },
+  {
+    "id": 1757864939568.484,
+    "session_id": "default",
+    "role": "user",
+    "message": "hi",
+    "timestamp": "2025-09-14T15:48:59.569Z",
+    "paper_context": null
+  },
+  {
+    "id": 1757864939574.4062,
+    "session_id": "default",
+    "role": "assistant",
+    "message": "I've processed your request with the selected research papers. Based on the content provided, I can assist with generating citations, populating sections, or summarizing key findings. The selected papers provide valuable insights that can be incorporated into your academic work.",
+    "timestamp": "2025-09-14T15:48:59.574Z",
+    "paper_context": null
+  },
+  {
+    "id": 1757864950437.5955,
+    "session_id": "default",
+    "role": "user",
+    "message": "explain quantum walk",
+    "timestamp": "2025-09-14T15:49:10.437Z",
+    "paper_context": null
+  },
+  {
+    "id": 1757864950441.1277,
+    "session_id": "default",
+    "role": "assistant",
+    "message": "I've processed your request with the selected research papers. Based on the content provided, I can assist with generating citations, populating sections, or summarizing key findings. The selected papers provide valuable insights that can be incorporated into your academic work.",
+    "timestamp": "2025-09-14T15:49:10.441Z",
+    "paper_context": null
+  },
+  {
+    "id": 1757865004844.6047,
+    "session_id": "default",
+    "role": "user",
+    "message": "give an abstract",
+    "timestamp": "2025-09-14T15:50:04.844Z",
+    "paper_context": null
+  },
+  {
+    "id": 1757865004848.7695,
+    "session_id": "default",
+    "role": "assistant",
+    "message": "I've processed your request with the selected research papers. Based on the content provided, I can assist with generating citations, populating sections, or summarizing key findings. The selected papers provide valuable insights that can be incorporated into your academic work.",
+    "timestamp": "2025-09-14T15:50:04.848Z",
+    "paper_context": null
+  },
+  {
+    "id": 1757865406433.669,
+    "session_id": "default",
+    "role": "user",
+    "message": "I want to write a research paper on quantum computing",
+    "timestamp": "2025-09-14T15:56:46.433Z",
+    "paper_context": null
+  },
+  {
+    "id": 1757865406435.086,
+    "session_id": "default",
+    "role": "assistant",
+    "message": "I've processed your request with the selected research papers. Based on the content provided, I can assist with generating citations, populating sections, or summarizing key findings. The selected papers provide valuable insights that can be incorporated into your academic work.",
+    "timestamp": "2025-09-14T15:56:46.435Z",
+    "paper_context": null
+  },
+  {
+    "id": 1757865433740.79,
+    "session_id": "default",
+    "role": "user",
+    "message": "cite the selected paper",
+    "timestamp": "2025-09-14T15:57:13.740Z",
+    "paper_context": null
+  },
+  {
+    "id": 1757865433742.9392,
+    "session_id": "default",
+    "role": "assistant",
+    "message": "I've processed your request with the selected research papers. Based on the content provided, I can assist with generating citations, populating sections, or summarizing key findings. The selected papers provide valuable insights that can be incorporated into your academic work.",
+    "timestamp": "2025-09-14T15:57:13.742Z",
+    "paper_context": null
+  },
+  {
+    "id": 1757865561947.969,
+    "session_id": "default",
+    "role": "user",
+    "message": "I want to write a research paper on quantum computing",
+    "timestamp": "2025-09-14T15:59:21.947Z",
+    "paper_context": null
+  },
+  {
+    "id": 1757865561951.9788,
+    "session_id": "default",
+    "role": "assistant",
+    "message": "I've processed your request with the selected research papers. Based on the content provided, I can assist with generating citations, populating sections, or summarizing key findings. The selected papers provide valuable insights that can be incorporated into your academic work.",
+    "timestamp": "2025-09-14T15:59:21.951Z",
+    "paper_context": null
+  }
+]
